@@ -22,7 +22,7 @@ public class ContaTerminal {
         System.out.print("Digite o valor você gostaria de fazer em seu primeiro depósito(R$): ");
            int saldo = scan.nextInt();
        
-       System.out.println("Olá, " + nome + ". Obrigado por criar uma conta em nosso banco, sua agência é " + agencia + ", conta " + conta + " e seu saldo " + saldo + " já  está disponível para saque.");
+        System.out.println("Olá, " + nome + ". Obrigado por criar uma conta em nosso banco, sua agência é " + agencia + ", conta " + conta + " e seu saldo " + saldo + " já  está disponível para saque.");
 
         
         
