@@ -52,7 +52,7 @@ public class Program {
             list.get(pos).increaseSalary(percent);
         }
         System.out.println();
-        System.out.println("List of employyes:");
+        System.out.println("List of employees:");
         for (Employee emp : list) {
             System.out.println(emp);
         }
